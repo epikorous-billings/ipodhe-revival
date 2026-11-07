@@ -1,0 +1,12 @@
+# never commit device dumps, Apple/third-party fonts or iPodHE binaries
+*.bin
+*.ipod
+*.img
+*.ttf
+*.otf
+*.fnt
+*.exe
+*.dmg
+/preview.png
+__pycache__/
+*.pyc

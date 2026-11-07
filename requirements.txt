@@ -1,0 +1,4 @@
+fonttools>=4.40
+python-bidi>=0.4
+freetype-py>=2.3
+Pillow>=9.0
